@@ -1,2 +1,2 @@
 # dns-blocklist
-This is a block list, created from over 600 smaller blacklists for pi-hole. It blocks over 18 million domains.
+This is a block list (bulk.txt), created from over 600 smaller blacklists (blocklist-origins.txt) for pi-hole. It blocks over 18 million domains.
